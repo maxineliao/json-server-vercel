@@ -1,0 +1,29 @@
+name: Backup JSON Server Data
+
+on:
+  schedule:
+    - cron: "0 * * * *" # 每小時執行一次
+  workflow_dispatch: # 允許手動觸發
+
+jobs:
+  backup:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout Repository
+        uses: actions/checkout@v4
+
+      - name: Fetch JSON Server Data
+        run: |
+          curl -s -o db.json https://pulse-web-player.onrender.com/db
+        # 🚀 記得修改 `https://your-json-server.onrender.com/db` 為你的 JSON Server API 端點
+
+      - name: Configure Git
+        run: |
+          git config --global user.name "github-actions[bot]"
+          git config --global user.email "github-actions[bot]@users.noreply.github.com"
+
+      - name: Commit and Push if Changed
+        run: |
+          git add db.json
+          git diff --cached --quiet || (git commit -m "Auto backup: $(date +'%Y-%m-%d %H:%M:%S')" && git push)
