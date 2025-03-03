@@ -1,11 +1,11 @@
-{"users": [
-    
-  ],
-  "posts": [
-    { "id": 1, "title": "json-server0915", "author": "typicode" }
-  ],
-  "comments": [
-    { "id": 1, "body": "some comment", "postId": 1 }
-  ],
-  "profile": { "name": "typicode" }
+{
+  "users": [
+    {
+      "email": "123@gmail.com",
+      "password": "$2a$10$Yp/qB9yLdzV2HDSUhkcgVe8GqENgvH0f0JqP/eXNhlwrkVSSW5QRS",
+      "id": 1,
+      "role": ["user"],
+      "plan": "free"
+    }
+  ]
 }
