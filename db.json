@@ -4,8 +4,28 @@
       "email": "123@gmail.com",
       "password": "$2a$10$Yp/qB9yLdzV2HDSUhkcgVe8GqENgvH0f0JqP/eXNhlwrkVSSW5QRS",
       "id": 1,
-      "role": ["user"],
+      "role": [
+        "user"
+      ],
       "plan": "free"
+    },
+    {
+      "email": "1243@gmail.com",
+      "password": "$2a$10$wObvui6XU5vheb1gjbUUQ.7Vd7e8jPjRJqhWCYoNrUG9uFnuRoYH6",
+      "role": [
+        "user"
+      ],
+      "plan": "free",
+      "id": 2
+    },
+    {
+      "email": "liyavi0302@gmail.com",
+      "password": "$2a$10$mZk2ZoO8q5w1kvs/wJdH/OiG1hzuTizUFEiZ842KF0a1qe8CCXbR6",
+      "role": [
+        "user"
+      ],
+      "plan": "free",
+      "id": 3
     }
   ]
 }
