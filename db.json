@@ -26,6 +26,15 @@
       ],
       "plan": "free",
       "id": 3
+    },
+    {
+      "email": "human3@gmail.com",
+      "password": "$2a$10$tBt2owvczzFWaEHB.716TOIhI/9UKiyg.PuDnwmELpa4/p2Dm4NxG",
+      "role": [
+        "user"
+      ],
+      "plan": "free",
+      "id": 4
     }
   ]
 }
