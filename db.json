@@ -1,7 +1,13 @@
-<html>
-<head><title>502 Bad Gateway</title></head>
-<body>
-<center><h1>502 Bad Gateway</h1></center>
-<hr><center>cloudflare</center>
-</body>
-</html>
+{
+  "users": [
+    {
+      "email": "123@gmail.com",
+      "password": "$2a$10$Yp/qB9yLdzV2HDSUhkcgVe8GqENgvH0f0JqP/eXNhlwrkVSSW5QRS",
+      "id": 1,
+      "role": [
+        "user"
+      ],
+      "plan": "free"
+    }
+  ]
+}
