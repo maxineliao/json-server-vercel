@@ -17,15 +17,6 @@
       ],
       "plan": "free",
       "id": 2
-    },
-    {
-      "email": "peggy123@gmail.com",
-      "password": "$2a$10$YjqBOc6GpscZWvCyx1cKa.NuiP531kLxo1qg1Y7rdd5gq6NcO/UPC",
-      "role": [
-        "user"
-      ],
-      "plan": "free",
-      "id": 4
     }
   ]
 }
