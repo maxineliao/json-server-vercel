@@ -17,6 +17,16 @@
       ],
       "plan": "free",
       "id": 2
+    },
+    {
+      "email": "liyavi0302@gmail.com",
+      "password": "$2a$10$Y5DMXXtlB0rRF/N8dOVDJuTVtp34yb9Ec8L7rdNZdASX4GIRsRDSK",
+      "username": "Maxine",
+      "role": [
+        "user"
+      ],
+      "plan": "free",
+      "id": 3
     }
   ]
 }
