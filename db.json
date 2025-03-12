@@ -17,6 +17,46 @@
       ],
       "plan": "free",
       "id": 2
+    },
+    {
+      "email": "liyavi0302@gmail.com",
+      "password": "$2a$10$eRIxfDlztfu.iP3meDsEi.wuI3D/abLvfL6q8bI07QZL0g8WkYwCm",
+      "username": "Maxine",
+      "role": [
+        "user"
+      ],
+      "plan": "free",
+      "id": 3
+    },
+    {
+      "email": "liyavi0302@gmail.com",
+      "password": "$2a$10$Urg4aHc.cNvfxO4j2K0eVuAqH6jpzJjVQAT41H9GPD/KaCpUklYxa",
+      "username": "Maxine",
+      "role": [
+        "user"
+      ],
+      "plan": "free",
+      "id": 4
+    },
+    {
+      "email": "liyavi0302@gmail.com",
+      "password": "$2a$10$PgUiVo62XufpOJ2eI691w.G5Zv4BCxaO3IjgUw37uJTpmUf9uNUBy",
+      "username": "Maxine",
+      "role": [
+        "user"
+      ],
+      "plan": "free",
+      "id": 5
+    },
+    {
+      "email": "liyavi0302@gmail.com",
+      "password": "$2a$10$WzQo9B0Pco/UrjfNRBETdeu.Xtw/J0HZQE0Ug4AivsxC6GVfNDh.C",
+      "username": "Maxine",
+      "role": [
+        "user"
+      ],
+      "plan": "free",
+      "id": 6
     }
   ]
 }
