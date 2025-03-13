@@ -17,26 +17,6 @@
       ],
       "plan": "free",
       "id": 2
-    },
-    {
-      "email": "1233@gmail.com",
-      "password": "$2a$10$oe.Jr.if/vvHLWqgUxX89eDIhFPDS5NlbKTec5D7g177GOItltStS",
-      "username": "Handsome",
-      "role": [
-        "user"
-      ],
-      "plan": "free",
-      "id": 3
-    },
-    {
-      "email": "liyavi0302@gmail.com",
-      "password": "$2a$10$aW0GtNklvEeUsDeP6tvq/O49PdscOyZl26258SfAoIo6ZgILUM1nu",
-      "username": "Maxine",
-      "role": [
-        "user"
-      ],
-      "plan": "free",
-      "id": 4
     }
   ]
 }
