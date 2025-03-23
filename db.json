@@ -45,6 +45,16 @@
       "plan": "Premium-1人",
       "price": 149,
       "id": 4
+    },
+    {
+      "email": "c1111111@gmail.com",
+      "password": "$2a$10$LyeLeYpwL8TyBnb9R78eh.Q90A/27dP8l3/nZhqI1Pvg2CWWSf9u6",
+      "username": "carrie",
+      "role": [
+        "user"
+      ],
+      "plan": "free",
+      "id": 5
     }
   ]
 }
