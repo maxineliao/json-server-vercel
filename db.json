@@ -4,6 +4,7 @@
       "email": "123@gmail.com",
       "password": "$2a$10$Yp/qB9yLdzV2HDSUhkcgVe8GqENgvH0f0JqP/eXNhlwrkVSSW5QRS",
       "id": 1,
+      "username": "Henry",
       "role": [
         "user"
       ],
@@ -12,11 +13,34 @@
     {
       "email": "123888@gmail.com",
       "password": "$2a$10$ybKqTLVxv/r8qRl0U92sg.jkVoJG6kGdRwfWfJ..AfOn1M0H9W..O",
+      "username": "Benson",
       "role": [
         "user"
       ],
       "plan": "free",
       "id": 2
-    }
+    },
+    {
+      "email": "1iyavi0302@gmail.com",
+      "password": "$2a$10$ybKqTLVxv/r8qRl0U92sg.jkVoJG6kGdRwfWfJ..AfOn1M0H9W..O",
+      "username": "Maxine",
+      "role": [
+        "user",
+        "admin"
+      ],
+      "plan": "free",
+      "id": 3
+    },
+    {
+      "email": "chanes3222@gmail.com",
+      "password": "$2a$10$uZuxqrHV8r3BpfjVwMVSEe/odhVoELY6nZr3.mKPHIXX6O55ml5ra",
+      "username": "Fendy",
+      "role": [
+        "user",
+        "admin"
+      ],
+      "plan": "free",
+      "id": 4
+    },
   ]
 }
