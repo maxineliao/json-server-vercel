@@ -8,7 +8,8 @@
       "role": [
         "user"
       ],
-      "plan": "free"
+      "plan": "Student-1人",
+      "price": 59
     },
     {
       "email": "123888@gmail.com",
@@ -17,7 +18,8 @@
       "role": [
         "user"
       ],
-      "plan": "free",
+      "plan": "Premium-4人",
+      "price": 399,
       "id": 2
     },
     {
@@ -28,7 +30,8 @@
         "user",
         "admin"
       ],
-      "plan": "free",
+      "plan": "Premium-1人",
+      "price": 149,
       "id": 3
     },
     {
@@ -39,7 +42,8 @@
         "user",
         "admin"
       ],
-      "plan": "free",
+      "plan": "Premium-1人",
+      "price": 149,
       "id": 4
     }
   ]
