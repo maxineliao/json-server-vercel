@@ -17,6 +17,46 @@
       ],
       "plan": "free",
       "id": 2
+    },
+    {
+      "email": "7777@gmail.com",
+      "password": "$2a$10$8bMKeH0j.4kzDtzSJRJo0Oh/RTCzK4RFBGvvOsAzqCfs8oNfcz/Oe",
+      "username": "fendy",
+      "role": [
+        "user"
+      ],
+      "plan": "free",
+      "id": 3
+    },
+    {
+      "email": "7777@gmail.com",
+      "password": "$2a$10$KWEEmPG7wpDrMyZ841XVtOwctwe3A5UTsHF0rt8Qy8/FW8z5dNpyW",
+      "username": "fendy",
+      "role": [
+        "user"
+      ],
+      "plan": "free",
+      "id": 4
+    },
+    {
+      "email": "7777@gmail.com",
+      "password": "$2a$10$2fg7g9Vd535t2dN6qbO//.M/bOhxBrDw6eUk6OKP8oDseS2.2AaHm",
+      "username": "fendy",
+      "role": [
+        "user"
+      ],
+      "plan": "free",
+      "id": 5
+    },
+    {
+      "email": "7777@gmail.com",
+      "password": "$2a$10$E.QErtJE2nmxTgtK0pa2COSHzlGWi/Uwxu5B3feUz9y/ft5btf71m",
+      "username": "fendy",
+      "role": [
+        "user"
+      ],
+      "plan": "free",
+      "id": 6
     }
   ]
 }
