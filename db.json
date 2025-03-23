@@ -17,6 +17,16 @@
       ],
       "plan": "free",
       "id": 2
+    },
+    {
+      "email": "7777@gmail.com",
+      "password": "$2a$10$uZuxqrHV8r3BpfjVwMVSEe/odhVoELY6nZr3.mKPHIXX6O55ml5ra",
+      "username": "fendy",
+      "role": [
+        "user"
+      ],
+      "plan": "free",
+      "id": 3
     }
   ]
 }
