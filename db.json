@@ -45,44 +45,6 @@
       "plan": "Premium-1人",
       "price": 149,
       "id": 4
-    },
-    {
-      "email": "test@gmail.com",
-      "password": "$2a$10$ZYC0vPC.Y7iza08JzKMvzuHHQ5DdQNHwkOyWcz7E1xpPtOFpWHaAy",
-      "username": "test",
-      "role": "[\"user\"]",
-      "plan": "Student-1人",
-      "price": "0",
-      "id": 5
-    },
-    {
-      "email": "test1@gmail.com",
-      "password": "$2a$10$3JevkhBotZ7hwvdBqvuQse8OxxnbNq4cDms2KXCpfZHH0HA/U9ABW",
-      "username": "test",
-      "role": "user",
-      "plan": "Student-1人",
-      "price": "0",
-      "id": 6
-    },
-    {
-      "email": "test12@gmail.com",
-      "password": "$2a$10$XDc7j5aQaNCBiNQ72mpuZegMA3y90Nzl2JgQCcIkiV4uBHQOiBEc.",
-      "username": "test",
-      "role[0]": "user",
-      "plan": "Student-1人",
-      "price": "0",
-      "id": 7
-    },
-    {
-      "email": "test123@gmail.com",
-      "password": "$2a$10$q4WfREWlBoepA/iw8sTSU.5jILQqCxYD.hlwQj/o4AylvwtSzSB6u",
-      "username": "test",
-      "role[0]": [
-        "user"
-      ],
-      "plan": "Student-1人",
-      "price": "0",
-      "id": 8
     }
   ]
 }
