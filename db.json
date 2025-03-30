@@ -45,68 +45,6 @@
       "plan": "Premium-1人",
       "price": 149,
       "id": 4
-    },
-    {
-      "email": "text1@gmail.com",
-      "password": "$2a$10$5.yVb.aDBG3AP3IlpyhHN.5mqEUV9UNk7ELtTAp8eWlhvnO6FCCVa",
-      "username": "1234",
-      "role": [
-        "user"
-      ],
-      "plan": "free",
-      "id": 5
-    },
-    {
-      "email": "tom@gmail.com",
-      "password": "$2a$10$Q381iJ75sROOikFgYKTLVeRKAKLdwmhModhGPtsb73Nrr0i0UMNM2",
-      "username": "tom",
-      "role": [
-        "user"
-      ],
-      "plan": "free",
-      "id": 6
-    },
-    {
-      "email": "james@gmail.com",
-      "password": "$2a$10$ZxdWvTRRCVUwjKPX4TZS1uuz2diDuBCu8FER0pbaAB4A1lA61RB9q",
-      "username": "james",
-      "role": [
-        "user"
-      ],
-      "plan": "free",
-      "id": 7
-    },
-    {
-      "email": "test@gmail.com",
-      "username": "test",
-      "role": [
-        "user"
-      ],
-      "plan": "Student-1人",
-      "price": "2000",
-      "password": "$2a$10$5zyjGqpZq5poJX/9BDEgy.b5LAIFywOS/E8dpMUDSN7XIE0s73cCq",
-      "id": 8
-    },
-    {
-      "email": "allen@gmail.com",
-      "password": "$2a$10$SkyMaNTNmNZcOZRRnWBNKe8cdJhvQSymyyrqPMJua/3YGN5j9n3zu",
-      "username": "allen",
-      "role": [
-        "user"
-      ],
-      "plan": "free",
-      "id": 9
-    },
-    {
-      "email": "angela@gmail.com",
-      "password": "$2a$10$aHb836wnaIAxJOH/ynt4Au0Tk53F.H0DyXEcLnIv.tKErn2gICeCy",
-      "username": "angela",
-      "role": [
-        "user"
-      ],
-      "plan": "free",
-      "price": "200",
-      "id": 10
     }
   ]
 }
