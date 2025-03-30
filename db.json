@@ -83,13 +83,13 @@
         "user"
       ],
       "plan": "Student-1人",
-      "price": "1",
-      "password": "$2a$10$ov0F0gsRvHkyxEWIN3VfF.I6Oqyy4xi.gcUvzUcTKuhYirKmNkzxi",
+      "price": "2000",
+      "password": "$2a$10$5zyjGqpZq5poJX/9BDEgy.b5LAIFywOS/E8dpMUDSN7XIE0s73cCq",
       "id": 8
     },
     {
       "email": "allen@gmail.com",
-      "password": "$2a$10$ozpKqVJXY7J6pk74Vy3BMOaCPESEKnqOFVD1ZiDd6tYyOUCHY7i8C",
+      "password": "$2a$10$SkyMaNTNmNZcOZRRnWBNKe8cdJhvQSymyyrqPMJua/3YGN5j9n3zu",
       "username": "allen",
       "role": [
         "user"
@@ -99,13 +99,13 @@
     },
     {
       "email": "angela@gmail.com",
-      "password": "$2a$10$l.v6QrM9JErXuZ7J400r3OtTwvhz2zyU1/dg5TjgcrYKao53eT7w.",
+      "password": "$2a$10$aHb836wnaIAxJOH/ynt4Au0Tk53F.H0DyXEcLnIv.tKErn2gICeCy",
       "username": "angela",
       "role": [
         "user"
       ],
       "plan": "free",
-      "price": 0,
+      "price": "200",
       "id": 10
     }
   ]
