@@ -2,13 +2,13 @@
   "users": [
     {
       "email": "123@gmail.com",
-      "password": "$2a$10$Yp/qB9yLdzV2HDSUhkcgVe8GqENgvH0f0JqP/eXNhlwrkVSSW5QRS",
+      "password": "$2a$10$hDlm8b9tXaqmD4NaKf77Y.lrBPNIzKakY44.pFAXyyK2Vn8WgIHlm",
       "username": "Henry",
       "role": [
         "user"
       ],
-      "plan": "Student-1人",
-      "price": 59,
+      "plan": "Student-4人",
+      "price": "168",
       "id": 1
     },
     {
