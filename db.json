@@ -2,13 +2,13 @@
   "users": [
     {
       "email": "123@gmail.com",
-      "password": "$2a$10$SMYzXnao1XdZS4So/xzW8eolIt7b.WxNhIUuFWFHP7PRrejQ3ZY76",
+      "password": "$2a$10$Yp/qB9yLdzV2HDSUhkcgVe8GqENgvH0f0JqP/eXNhlwrkVSSW5QRS",
       "username": "Henry",
       "role": [
         "user"
       ],
       "plan": "Student-1人",
-      "price": "59",
+      "price": 59,
       "id": 1
     },
     {
@@ -112,17 +112,6 @@
       "plan": "Student-1人",
       "price": 59,
       "id": 10
-    },
-    {
-      "email": "adminpulse@gmail.com",
-      "password": "$2a$10$ebHqlSvrZVwbR8DtC03C4uA..e6m16JZB3xzPhA2oRzrRyI6L6W.q",
-      "username": "Admin",
-      "role": [
-        "user"
-      ],
-      "plan": "free",
-      "price": 0,
-      "id": 11
     }
   ]
 }
