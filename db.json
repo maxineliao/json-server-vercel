@@ -121,9 +121,20 @@
         "user",
         "admin"
       ],
+      "plan": "Student-10人",
+      "price": 388,
+      "id": 11
+    },
+    {
+      "email": "jijijj@gmail.com",
+      "password": "$2a$10$KxLPC6b5tsQ.EBFxOXDmrueJZ1dE90NEoYJCkit7g1xxZVUI0o8yO",
+      "username": "HAHA",
+      "role": [
+        "user"
+      ],
       "plan": "Premium-1人",
       "price": 149,
-      "id": 11
+      "id": 12
     }
   ],
   "subscriptions": [
