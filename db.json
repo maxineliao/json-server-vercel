@@ -89,6 +89,15 @@
       "plan": "Student-1人",
       "price": 59,
       "id": 10
+    },
+    {
+      "email": "adminpulse@gmail.com",
+      "password": "$2a$10$ebHqlSvrZVwbR8DtC03C4uA..e6m16JZB3xzPhA2oRzrRyI6L6W.q",
+      "username": "Pulse",
+      "role": ["user", "admin"],
+      "plan": "Premium-1人",
+      "price": 149,
+      "id": 11
     }
   ],
   "subscriptions": [
