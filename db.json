@@ -30,8 +30,8 @@
         "user",
         "admin"
       ],
-      "plan": "Premium-10人",
-      "price": 888,
+      "plan": "Premium-1人",
+      "price": 149,
       "id": 3
     },
     {
@@ -121,9 +121,20 @@
         "user",
         "admin"
       ],
-      "plan": "Premium-1人",
-      "price": 149,
+      "plan": "Premium-10人",
+      "price": 888,
       "id": 11
+    },
+    {
+      "email": "uio@gmail.com",
+      "password": "$2a$10$gsoKOc60nvg65a59LwAdsOxYLWC5EXRlYFDdzlFT9XPfu563zLhNi",
+      "username": "HiYo",
+      "role": [
+        "user"
+      ],
+      "plan": "free",
+      "price": 0,
+      "id": 12
     }
   ],
   "subscriptions": [
