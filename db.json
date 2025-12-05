@@ -1,7 +1,236 @@
-<html>
-<head><title>500 Internal Server Error</title></head>
-<body>
-<center><h1>500 Internal Server Error</h1></center>
-<hr><center>cloudflare</center>
-</body>
-</html>
+{
+  "users": [
+    {
+      "email": "123@gmail.com",
+      "password": "$2a$10$Yp/qB9yLdzV2HDSUhkcgVe8GqENgvH0f0JqP/eXNhlwrkVSSW5QRS",
+      "username": "Henry",
+      "role": [
+        "user"
+      ],
+      "plan": "Student-1人",
+      "price": 59,
+      "id": 1
+    },
+    {
+      "email": "123888@gmail.com",
+      "password": "$2a$10$ybKqTLVxv/r8qRl0U92sg.jkVoJG6kGdRwfWfJ..AfOn1M0H9W..O",
+      "username": "Benson",
+      "role": [
+        "user"
+      ],
+      "plan": "Premium-4人",
+      "price": 399,
+      "id": 2
+    },
+    {
+      "email": "liyavi0302@gmail.com",
+      "password": "$2a$10$ybKqTLVxv/r8qRl0U92sg.jkVoJG6kGdRwfWfJ..AfOn1M0H9W..O",
+      "username": "Maxine",
+      "role": [
+        "user",
+        "admin"
+      ],
+      "plan": "Premium-1人",
+      "price": 149,
+      "id": 3
+    },
+    {
+      "email": "chanes3222@gmail.com",
+      "password": "$2a$10$uZuxqrHV8r3BpfjVwMVSEe/odhVoELY6nZr3.mKPHIXX6O55ml5ra",
+      "username": "Fendy",
+      "role": [
+        "user",
+        "admin"
+      ],
+      "plan": "Premium-1人",
+      "price": 149,
+      "id": 4
+    },
+    {
+      "email": "apple@gmail.com",
+      "password": "$2a$10$uZuxqrHV8r3BpfjVwMVSEe/odhVoELY6nZr3.mKPHIXX6O55ml5ra",
+      "username": "Apple",
+      "role": [
+        "user"
+      ],
+      "plan": "Premium-1人",
+      "price": 149,
+      "id": 5
+    },
+    {
+      "email": "tom@gmail.com",
+      "password": "$2a$10$ybKqTLVxv/r8qRl0U92sg.jkVoJG6kGdRwfWfJ..AfOn1M0H9W..O",
+      "username": "Tom",
+      "role": [
+        "user"
+      ],
+      "plan": "Premium-10人",
+      "price": 888,
+      "id": 6
+    },
+    {
+      "email": "james@gmail.com",
+      "password": "$2a$10$ybKqTLVxv/r8qRl0U92sg.jkVoJG6kGdRwfWfJ..AfOn1M0H9W..O",
+      "username": "James",
+      "role": [
+        "user"
+      ],
+      "plan": "Student-10人",
+      "price": 388,
+      "id": 7
+    },
+    {
+      "email": "jason@gmail.com",
+      "password": "$2a$10$ybKqTLVxv/r8qRl0U92sg.jkVoJG6kGdRwfWfJ..AfOn1M0H9W..O",
+      "username": "Jason",
+      "role": [
+        "user"
+      ],
+      "plan": "Student-4人",
+      "price": 168,
+      "id": 8
+    },
+    {
+      "email": "test@gmail.com",
+      "password": "$2a$10$uZuxqrHV8r3BpfjVwMVSEe/odhVoELY6nZr3.mKPHIXX6O55ml5ra",
+      "username": "Test",
+      "role": [
+        "user",
+        "admin"
+      ],
+      "plan": "Premium-1人",
+      "price": 149,
+      "id": 9
+    },
+    {
+      "email": "ruby@gmail.com",
+      "password": "$2a$10$uZuxqrHV8r3BpfjVwMVSEe/odhVoELY6nZr3.mKPHIXX6O55ml5ra",
+      "username": "Ruby",
+      "role": [
+        "user"
+      ],
+      "plan": "Student-1人",
+      "price": 59,
+      "id": 10
+    },
+    {
+      "email": "adminpulse@gmail.com",
+      "password": "$2a$10$ebHqlSvrZVwbR8DtC03C4uA..e6m16JZB3xzPhA2oRzrRyI6L6W.q",
+      "username": "Pulse",
+      "role": [
+        "user",
+        "admin"
+      ],
+      "plan": "Premium-1人",
+      "price": 149,
+      "id": 11
+    }
+  ],
+  "subscriptions": [
+    {
+      "id": 0,
+      "category": "Free",
+      "title": "FREE TRIAL",
+      "description": "免費試用",
+      "price": 0,
+      "unit": "月",
+      "people": 1,
+      "type": "free",
+      "features": [
+        "可使用網頁播放器",
+        "標準音質",
+        "30天免費試用"
+      ]
+    },
+    {
+      "id": 1,
+      "category": "Student",
+      "title": "PARTY FOR ONE",
+      "description": "1人",
+      "price": 59,
+      "unit": "月",
+      "people": 1,
+      "type": "student",
+      "features": [
+        "高解析無損音質",
+        "AI智能推薦與個人電台",
+        "學生專屬優惠"
+      ]
+    },
+    {
+      "id": 2,
+      "category": "Student",
+      "title": "PARTY FOR FRIENDS",
+      "description": "4人",
+      "price": 168,
+      "unit": "月",
+      "people": 4,
+      "type": "student",
+      "features": [
+        "可多人共用帳號",
+        "不受距離與IP限制",
+        "無損音質與播放同步"
+      ]
+    },
+    {
+      "id": 3,
+      "category": "Student",
+      "title": "PARTY FOR ALL",
+      "description": "10人",
+      "price": 388,
+      "unit": "月",
+      "people": 10,
+      "type": "student",
+      "features": [
+        "最多可 10 人共享",
+        "不限地點立即加入",
+        "專屬歌單與推薦功能"
+      ]
+    },
+    {
+      "id": 4,
+      "category": "Premium",
+      "title": "PREMIUM FOR ONE",
+      "description": "1人",
+      "price": 149,
+      "unit": "月",
+      "people": 1,
+      "type": "premium",
+      "features": [
+        "24bit / 192kHz 無損音質",
+        "支援 App 與網頁多平台",
+        "AI個人化推薦與自訂歌單"
+      ]
+    },
+    {
+      "id": 5,
+      "category": "Premium",
+      "title": "PREMIUM FOR FRIENDS & FAMILY",
+      "description": "4人",
+      "price": 399,
+      "unit": "月",
+      "people": 4,
+      "type": "premium",
+      "features": [
+        "最多 4 人同享 Premium",
+        "跨地區共享不受限",
+        "同步播放與個人歌單分離"
+      ]
+    },
+    {
+      "id": 6,
+      "category": "Premium",
+      "title": "PREMIUM FOR EVERYONE",
+      "description": "10人",
+      "price": 888,
+      "unit": "月",
+      "people": 10,
+      "type": "premium",
+      "features": [
+        "超大規模共享帳號",
+        "每人獨立推薦與播放紀錄",
+        "支援直播電台與開台功能"
+      ]
+    }
+  ]
+}
